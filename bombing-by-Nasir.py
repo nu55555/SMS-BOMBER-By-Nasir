@@ -296,7 +296,7 @@ for i in range(amo):
 	resp12 = requests.post(url10,headers=headers10, data=data10)
 	print(f"{ran2}[SMS SENT SUCCESSFULLY BY GALIUM-X”° ")
 	os.system("espeak \" Sir BD SMS booming SUCCESFULLY\"")
-        os.system("espeak \" Sir BD SMS booming SUCCESFULLY\"")
+ 
 else: 
 	input(g+"\n\t\t\tYour Pogram Finished Enter For Continue")
 	os.system("clear")
